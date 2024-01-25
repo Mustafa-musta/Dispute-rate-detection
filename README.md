@@ -1,4 +1,4 @@
-# Finance Complaint Analysis
+# Dispute rate detection
 
 
 
@@ -23,13 +23,6 @@ The problem is to identify registered complaint will be disputed by customer or 
 
 1. S3 Bucket
 2. Artifact Registry
-
-## Dashboarding
-1. Grafana
-2. Prometheus
-3. Node Exporter
-4. Promtail
-5. Loki
 
 ## How to run?
 
@@ -123,4 +116,4 @@ Update in airflow.cfg
 ```
 enable_xcom_pickling = True
 ```
-# finance-complaints
+# Dispute-rate-detection
